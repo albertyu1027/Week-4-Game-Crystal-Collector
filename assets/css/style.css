@@ -1,0 +1,14 @@
+#top {
+	font-weight:bold;
+	font-size:30px;
+	background-color: blue;
+	text-align: center;
+}
+
+#instructions {
+	color:green;
+	background-color: peachpuff;
+	font-weight:bold;
+	text-align: center;
+}
+
